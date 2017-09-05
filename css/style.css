@@ -7,7 +7,7 @@ body {
     padding-top: 3vh;
     padding-bottom: 5vh;
 }
-#header-info h1, h3{
+#header-info{
     text-align: center;
     color: white;
     font-weight: lighter;
