@@ -28,7 +28,7 @@ body {
     padding-bottom: 8vh; 
     margin-top: 10px;
 }
-#info-text{
+.info-text{
     color: white;
     font-size: 1.2em;
 }
@@ -39,4 +39,21 @@ body {
     padding-top: 5%;
     padding-bottom: 5%;
     background-color: rgb(150,200,255);
+}
+#grid-of-nine{
+    padding-top: 5%;
+    text-align: center; 
+}
+#grid-item-1{
+    background-color: rgba(222,222,222,.2);
+    padding-top: 10px;
+}
+.grid-images{
+    width: 90%;
+    padding-left: 5%;
+}
+#funProjects{
+    background-color: black;
+    color: white;
+    padding-top: 5%;
 }
