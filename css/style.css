@@ -42,6 +42,7 @@ body {
 }
 #grid-of-nine{
     padding-top: 5%;
+    padding-bottom: 5%;
     text-align: center; 
 }
 #grid-item-1{
@@ -56,4 +57,5 @@ body {
     background-color: black;
     color: white;
     padding-top: 5%;
+    padding-bottom: 5%;
 }
