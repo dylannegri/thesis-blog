@@ -59,8 +59,11 @@ body {
     padding-top: 5%;
     padding-bottom: 5%;
 }
-#concept-statement{
+#abstract-statement{
     background-color: rgb(255,200,0);
     padding-top: 5%;
     padding-bottom: 5%;
+}
+#prototypes {
+    padding-top: 5%;
 }
