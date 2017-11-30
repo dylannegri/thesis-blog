@@ -14,7 +14,7 @@ body {
 }
 #banner{
     height:62vh;
-    background: url("../images/banner.JPG") no-repeat center center;
+    background: url("./images/banner.jpg") no-repeat center center;
     background-size: cover;
 }
 #scroll-icon{
