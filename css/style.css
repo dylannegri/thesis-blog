@@ -13,8 +13,9 @@ body {
     font-weight: lighter;
 }
 #banner{
-    height:62vh;
-    background: url("./images/banner.jpg") no-repeat center center;
+
+    height:58vh;
+    background: url("../images/grid-images/banner02.JPG") no-repeat center center;
     background-size: cover;
 }
 #scroll-icon{
